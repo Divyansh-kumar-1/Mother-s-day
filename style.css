@@ -1,0 +1,38 @@
+#app {
+    width: 100%;
+    height: 800px;
+  background: linear-gradient(#F4511E,#4CAF50)
+}
+
+.container {
+    text-align: center;
+}
+
+#my-carousel-1 {
+    background-color: aquamarine;
+}
+
+#my-carousel-1 img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: black;
+    font-size: 20px;
+}
+
+#my-carousel-2 {
+ background-color: aqua;
+}
+
+#my-carousel-2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+body{
+      background: linear-gradient(#90CAF9,#D500F9);
+    text-align: center;       
+}
